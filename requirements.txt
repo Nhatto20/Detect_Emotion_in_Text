@@ -6,3 +6,5 @@ numpy
 seaborn
 matplotlib
 nltk
+huggingface_hub
+fsspec

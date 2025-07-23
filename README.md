@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ----
 ### 2. Load model & vectorizer
-After running file Emotion_Detection_In_Text.ipynb you will received 3 file: model file, tfidf_transformer file and count_vectorizer generated during the training process. Then, add them to your **models**  folder so that you can run the application.
+After running file Emotion_Detection_In_Text.ipynb you will received 3 file: model file, tfidf_transformer file and count_vectorizer generated during the training process in the "models" folder
 ```bash
 run file Emotion_Detection_In_Text.ipynb
 ```
@@ -42,5 +42,6 @@ You can access the deployed application here:
 ## Feedback
 For feedbacks or issues about project please contact with me: 
 ```
+quangnhatnguyen120@gmail.com
 haongoc.nguyen2004@gmail.com
 ```
