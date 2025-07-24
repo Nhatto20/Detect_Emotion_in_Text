@@ -32,6 +32,12 @@ Open new terminal and then run this line:
 streamlit run app.py
 ```
 ---
+### 4. Hugging Face Deployment
+For added convenience, this application is deployed on Hugging Face Spaces, allowing you to interact with the model directly in your web browser without needing to set up a local environment.
+You can access the deployed application here:  
+[Detect Emotion In Text](https://huggingface.co/spaces/HaoHao2915/Emotion_Detection_In_Text)
+
+**Simply click the link, input your text, and view the predicted emotion in real time.**
 
 
 ## Feedback
